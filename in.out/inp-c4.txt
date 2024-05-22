@@ -1,0 +1,3 @@
+avi 1
+beni 1 2
+camal 1 2 3
