@@ -127,10 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ex10a.cc" />
     <ClCompile Include="in.out.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="in.out.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
