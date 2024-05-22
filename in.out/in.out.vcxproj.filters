@@ -22,7 +22,7 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ex10a.cc">
-      <Filter>Source Files</Filter>
+      <Filter>Resource Files\Exercises</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
