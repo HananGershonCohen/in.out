@@ -24,5 +24,8 @@
     <ClCompile Include="ex10a.cc">
       <Filter>Resource Files\Exercises</Filter>
     </ClCompile>
+    <ClCompile Include="..\ex10c.cc">
+      <Filter>Resource Files\Exercises</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
